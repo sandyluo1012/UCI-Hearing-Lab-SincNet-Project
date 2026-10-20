@@ -1,0 +1,8 @@
+"dataset","filters","test_clips","evaluations","last_epoch","last_clip_accuracy","best_epoch","best_clip_accuracy","source"
+"experiment","5","80","50","49","0.674999982","44","0.750000000","experiment_5.log"
+"experiment","10","80","52","49","0.762500003","26","0.787499994","experiment_10.log"
+"experiment","15","80","50","49","0.737499982","31","0.774999991","experiment_15.log"
+"experiment","20","80","50","49","0.737499982","15","0.774999991","experiment_20.log"
+"simulation","5","60","13","96","0.466666639","80","0.533333302","simulation_5.log"
+"simulation","10","60","13","96","0.416666627","8","0.516666651","simulation_10.log"
+"simulation","80","60","14","96","0.500000000","8","0.599999964","simulation_80.log"

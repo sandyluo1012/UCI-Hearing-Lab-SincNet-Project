@@ -1,0 +1,9 @@
+# Unpinned dependency inventory; the original environment was not recorded.
+# Install a CUDA-enabled PyTorch build separately before training.
+numpy
+scipy
+soundfile
+torch
+pandas
+matplotlib
+jupyterlab

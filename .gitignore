@@ -1,0 +1,33 @@
+# Original files retained locally during portfolio cleanup
+.local_archive/
+/github-ready.zip
+
+# Participant records and generated audio stay local
+*.mat
+*.wav
+*.WAV
+sim_data/
+exp_data/
+private_data/
+
+# Checkpoints, generated label dictionaries, and legacy experiment outputs
+*.pkl
+*.pt
+*.pth
+*.npy
+*.npz
+*.xlsx
+exp/
+
+# Python / notebook / editor artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.idea/
+.vscode/
+.env
+.env.*
+.DS_Store
+Thumbs.db
